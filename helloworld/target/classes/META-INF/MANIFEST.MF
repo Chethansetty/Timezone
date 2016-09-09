@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: jabong
+Build-Jdk: 1.8.0_91
+Implementation-Title: helloworld
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Created-By: Maven Integration for Eclipse
+
