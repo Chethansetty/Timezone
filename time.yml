@@ -1,7 +1,0 @@
-template: Hello, %s!
-logging:
-  level: INFO
-  loggers:
-    io.dropwizard: INFO
-  
-     
